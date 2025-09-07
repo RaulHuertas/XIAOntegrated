@@ -3,3 +3,4 @@ A board to build dactyl keyboards with the XIAO-bleuC, hole-compatible with the 
 
 ## Contents
 - pcbfiles/ : easyeda pro project and gerber files
+- images/ : images of the board
